@@ -1,0 +1,23 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "91506fa6-cf84-4f4b-ae8d-dcf0fc4c88da")
+	(paper "A4")
+	(title_block
+		(title "TW-SAP1 Hardware Platform")
+		(rev "Rev A")
+		(company "Tuchware Technologies Pvt. Ltd.")
+		(comment 1 "XS3400 Residential Smart Lock")
+		(comment 2 "Engineering Validation (EVT)")
+		(comment 3 "Sheet 001")
+		(comment 4 "Confidential")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
